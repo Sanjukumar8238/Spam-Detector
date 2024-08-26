@@ -1,4 +1,3 @@
-```markdown
 # Spam Classifier for Emails and SMS Messages
 
 ## Overview
@@ -55,4 +54,4 @@ This project focuses on building a spam classifier that can identify spam messag
 
 - Thanks to the UCI Machine Learning Repository for the dataset.
 - Special thanks to the open-source community for providing the libraries and tools used in this project.
-```
+
